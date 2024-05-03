@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cypress": "^13.8.1"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}

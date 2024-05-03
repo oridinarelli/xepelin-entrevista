@@ -1,0 +1,20 @@
+1- Instalar npm https://nodejs.org/en/download
+2- Verificar que se haya instalado ejecutar los comandos: node -v y npm -v
+3- Instalar cypress: npm install cypress --dave-dev
+4- Para abrir el launcher: npx cypress open
+
+
+
+
+-----------------------------------
+Request 
+get > Consulta de datos
+put > Update/Guarda datos 
+post > Alta/Imsert datos
+delete > borra elemento 
+1- Instalar cucumber: npm install --save-dev cypress-cucumber-preprocessor
+2- Instalar axios: npm install axios
+Axios: 
+  - es una libreria de js
+  - se puede realizar peticiones y visualizar los resultados 
+  - usa el modulo nativo http de node.js, mientras que en el lado del cliente (navegador) usa XMLHttpRequests.
